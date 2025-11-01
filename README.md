@@ -17,43 +17,7 @@ It allows users to record, update, and monitor expenses efficiently within the S
 
 ---
 
-## 🧩 Table Details
 
-| Field Name       | Type     | Description                         |
-|------------------|----------|-------------------------------------|
-| **Number**       | String   | Unique identifier for each record   |
-| **Amount**       | Integer  | Expense amount                      |
-| **Date**         | Date     | Date of the expense                 |
-| **Expense Details** | String | Description or category of expense  |
-
-**Table Name:** `u_st_family_expenses`  
-**Label:** Family Expenses  
-**Application:** Global  
-**Extends Table:** (Optional) `Task`  
-
----
-
-## ⚙️ Configuration Steps
-
-1. Navigate to **System Definition → Tables**  
-2. Click **New** → Create table **Family Expenses**
-3. Add columns:
-   - Number (String)
-   - Amount (Integer)
-   - Date (Date)
-   - Expense Details (String)
-4. (Optional) Set **Extends table** = `Task` for workflow and state fields  
-5. Configure **List Layout** → Add the columns you created  
-6. Configure **Form Layout** → Add fields in this order:
-   - Label
-   - Name
-   - Extends table
-   - Application
-   - Show in Menu
-   - Remote Table
-7. Click **Update** and verify the form.
-
----
 
 ## 🧠 Usage
 1. Open the **Family Expenses** table under the Application menu.  
