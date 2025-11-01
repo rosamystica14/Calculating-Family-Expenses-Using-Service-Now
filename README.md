@@ -44,6 +44,10 @@ It allows users to record, update, and monitor expenses efficiently within the S
 
 ---
 
+## Video demo link
+
+https://drive.google.com/file/d/1Arq0rNzeZPIJR9TOcJiELrYdBpkG5zip/view?usp=drive_link
+
 ## 📚 Author
 **Name:** [Rosa Mystica M , Sahaya Shiny Vaz A , Santhiya M , Snowfa P Rayer J] 
 **Platform:** ServiceNow Developer Instance   
